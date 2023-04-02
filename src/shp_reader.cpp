@@ -99,7 +99,7 @@
 
 SHP_CVSID("$Id: shpdump.c,v 1.19 2016-12-05 12:44:05 erouault Exp $")
 
-int main( int argc, char ** argv )
+int my_data_main( int argc, char ** argv )
 
 {
     SHPHandle	hSHP;
